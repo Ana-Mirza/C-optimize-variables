@@ -1,11 +1,11 @@
 ## C-optimize variables
 
-This is a script for optimizing the constants in [C-step-counter](https://github.com/MarcusNordstrom/C-Step-Counter).
+This is a script for optimizing the constants in [C-step-counter](https://github.com/Ana-Mirza/C-Step-Counter).
 
 ## Guide
 
  - Clone the repo
- - Edit *PATH* in main to your CSV file collected from [C-process-raw-data](https://github.com/MarcusNordstrom/C-process-raw-data).
+ - Edit *dataset[]* in main to your CSV files collected from accelerometer.
  - Set *correct_answer* to the amount of steps in the CSV file
  - Run cmake
  - Execute the binary
